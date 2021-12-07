@@ -72,3 +72,6 @@ section{
 footer p{
         text-align: center;
 }
+footer p a{
+    text-decoration: none;
+}
